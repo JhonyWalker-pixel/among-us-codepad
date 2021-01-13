@@ -11,7 +11,10 @@ A clone of the mini game that is in Among Us where the objective is to select th
 
 The cool thing is that this project only use HTML, CSS, SVG and Vanilla JS
 
+## :floppy_disk: Other related
 
-## :book: Licença
+- [Animation of ejecting] (https://jhonywalker-pixel.github.io/among-us-ejected/)
+
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
