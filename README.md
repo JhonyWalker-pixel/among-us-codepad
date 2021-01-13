@@ -13,7 +13,7 @@ The cool thing is that this project only use HTML, CSS, SVG and Vanilla JS
 
 ## :floppy_disk: Other related
 
-- [Animation of ejecting] (https://jhonywalker-pixel.github.io/among-us-ejected/)
+- [Animation of ejecting](https://jhonywalker-pixel.github.io/among-us-ejected/)
 
 ## :book: License
 
