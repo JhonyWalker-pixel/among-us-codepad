@@ -7,7 +7,7 @@
 
 A clone of the mini game that is in Among Us where the objective is to select the correct pattern. Come on see the [final result](https://jhonywalker-pixel.github.io/among-us-codepad/)
 
-## :computer: Languages used
+## :computer: Used languages
 
 The cool thing is that this project only use HTML, CSS, SVG and Vanilla JS
 
