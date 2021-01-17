@@ -15,6 +15,8 @@ The cool thing is that this project only use HTML, CSS, SVG and Vanilla JS
 
 - [Animation of ejecting](https://jhonywalker-pixel.github.io/among-us-ejected/)
 
+- [Fix Wiring](https://jhonywalker-pixel.github.io/fix-wiring-among-us/)
+
 ## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
