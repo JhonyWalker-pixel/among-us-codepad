@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-A clone of the mini game that is in Among Us where the objective is to select the correct pattern. Come on see the final result.
+A clone of the mini game that is in Among Us where the objective is to select the correct pattern.
 
 ## :computer: Used languages
 
